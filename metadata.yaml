@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1618'
     url: http://www.gutenberg.org/2009/agents/1618
     wikipedia: https://en.wikipedia.org/wiki/John_Cameron_(footballer,_born_1872)
+covers:
+- cover_type: archival
+  image_path: 67789-h/images/cover.jpg
 creator:
   author:
     agent_name: Marchmont, Arthur W.
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '37728'
     url: http://www.gutenberg.org/2009/agents/37728
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67789#The-Queen-s-Advocate
 gutenberg_issued: '2022-04-07'
 identifiers:
   gutenberg: '67789'
