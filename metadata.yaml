@@ -1,0 +1,39 @@
+_repo: The-Queen-s-Advocate_67789
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cameron, John
+    alias: Cameron, John, soccer player
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '1618'
+    url: http://www.gutenberg.org/2009/agents/1618
+    wikipedia: https://en.wikipedia.org/wiki/John_Cameron_(footballer,_born_1872)
+creator:
+  author:
+    agent_name: Marchmont, Arthur W.
+    alias: Marchmont, Arthur Williams
+    birthdate: 1852
+    deathdate: 1923
+    gutenberg_agent_id: '37728'
+    url: http://www.gutenberg.org/2009/agents/37728
+description: ''
+gutenberg_issued: '2022-04-07'
+identifiers:
+  gutenberg: '67789'
+language: en
+pgterms:marc904: https://archive.org/details/queensadvocate00marciala/mode/2up
+pgterms:marc905: 20200531134835marchmont
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :A. L. Burt Company,1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Queen's Advocate
+url: http://www.gutenberg.org/ebooks/67789
